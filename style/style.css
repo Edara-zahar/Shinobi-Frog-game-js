@@ -1,0 +1,33 @@
+
+body{
+	background: black;
+	overflow: hidden;
+	margin-left: -750px;
+}
+.content{
+	position: relative;
+	margin: 0 auto;
+	text-align: -webkit-center;
+}
+.cont_ch{
+	text-align: center;
+	width: 900px;
+}
+canvas{
+	display: block;
+}
+.sound{
+	margin-left: 600px;
+}
+#hero, #block, #title{
+	position: absolute;
+	top: 0;
+}
+p, H2{
+	color: white;
+	text-shadow: 3px 3px black;
+	font-weight: bolder;
+	font-size: 20pt;
+	text-align: center;
+	margin-left: 750px;
+}
